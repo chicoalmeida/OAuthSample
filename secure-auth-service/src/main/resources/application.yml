@@ -3,8 +3,6 @@ server:
   context-path: /services
 security:
   user:
-    name: chico
-    password: pass
     role: USER
   oauth2:
     client:
